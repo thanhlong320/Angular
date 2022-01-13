@@ -21,6 +21,9 @@ jsconfig.json
 # Also ignore code styles because .editorconfig is used instead.
 .idea/codeStyles/
 
+# .angular
+.angular
+
 # VSCode
 # https://github.com/github/gitignore/blob/master/Global/VisualStudioCode.gitignore
 .vscode/
